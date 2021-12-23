@@ -703,7 +703,7 @@ namespace OpenTK_winforms_z02 {
             this.btnTexQ_1.Name = "btnTexQ_1";
             this.btnTexQ_1.Size = new System.Drawing.Size(283, 32);
             this.btnTexQ_1.TabIndex = 57;
-            this.btnTexQ_1.Text = "Load cube (quads) - texture 1 (100%)";
+            this.btnTexQ_1.Text = "Load pyramid- texture 1 (100%)";
             this.btnTexQ_1.UseVisualStyleBackColor = true;
             this.btnTexQ_1.Click += new System.EventHandler(this.btnTexQ_1_Click);
             // 
@@ -743,7 +743,7 @@ namespace OpenTK_winforms_z02 {
             this.radioButton2.AutoSize = true;
             this.radioButton2.Location = new System.Drawing.Point(7, 49);
             this.radioButton2.Name = "radioButton2";
-            this.radioButton2.Size = new System.Drawing.Size(110, 21);
+            this.radioButton2.Size = new System.Drawing.Size(113, 21);
             this.radioButton2.TabIndex = 1;
             this.radioButton2.Text = "Logo (alpha!)";
             this.radioButton2.UseVisualStyleBackColor = true;
@@ -755,7 +755,7 @@ namespace OpenTK_winforms_z02 {
             this.rbTexture0.Checked = true;
             this.rbTexture0.Location = new System.Drawing.Point(7, 22);
             this.rbTexture0.Name = "rbTexture0";
-            this.rbTexture0.Size = new System.Drawing.Size(64, 21);
+            this.rbTexture0.Size = new System.Drawing.Size(67, 21);
             this.rbTexture0.TabIndex = 0;
             this.rbTexture0.TabStop = true;
             this.rbTexture0.Text = "Bricks";
@@ -779,7 +779,7 @@ namespace OpenTK_winforms_z02 {
             this.rbColorBlue.AutoSize = true;
             this.rbColorBlue.Location = new System.Drawing.Point(7, 79);
             this.rbColorBlue.Name = "rbColorBlue";
-            this.rbColorBlue.Size = new System.Drawing.Size(54, 21);
+            this.rbColorBlue.Size = new System.Drawing.Size(57, 21);
             this.rbColorBlue.TabIndex = 2;
             this.rbColorBlue.Text = "Blue";
             this.rbColorBlue.UseVisualStyleBackColor = true;
@@ -790,7 +790,7 @@ namespace OpenTK_winforms_z02 {
             this.rbColorRed.AutoSize = true;
             this.rbColorRed.Location = new System.Drawing.Point(7, 49);
             this.rbColorRed.Name = "rbColorRed";
-            this.rbColorRed.Size = new System.Drawing.Size(52, 21);
+            this.rbColorRed.Size = new System.Drawing.Size(55, 21);
             this.rbColorRed.TabIndex = 1;
             this.rbColorRed.Text = "Red";
             this.rbColorRed.UseVisualStyleBackColor = true;
@@ -802,7 +802,7 @@ namespace OpenTK_winforms_z02 {
             this.rbColorWhite.Checked = true;
             this.rbColorWhite.Location = new System.Drawing.Point(7, 22);
             this.rbColorWhite.Name = "rbColorWhite";
-            this.rbColorWhite.Size = new System.Drawing.Size(62, 21);
+            this.rbColorWhite.Size = new System.Drawing.Size(65, 21);
             this.rbColorWhite.TabIndex = 0;
             this.rbColorWhite.TabStop = true;
             this.rbColorWhite.Text = "White";
